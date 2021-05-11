@@ -94,14 +94,14 @@ pd <- import('pandas')
 ```{r, eval=F}
 sns$pairplot(r_to_py(heart_data), hue = 'target')
 #display the plot
-plt$savefig('pairplot.jpg')
+plt$savefig('tmp')
 ```
 
 
 
 Output image:
 
-![](tmp.jpg)
+![](pairplot.png)
 
 
 

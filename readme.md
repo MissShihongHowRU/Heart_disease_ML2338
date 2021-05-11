@@ -30,6 +30,11 @@ library(neuralnet)
 
 You can use `install.packages('XXX')` in r to install any missing packages. 
 
+
+## ploting pairplot.png
+
+![pairplot](pairplot.png)
+
 Plotting pairplot.png will involve the seaborn package in python, and we provide two options to solve this problem. The first is to use `reticulate` in r to call the seaborn package directly, then save the plotted image and load it in the .rmd file. The pairplot drawn in this way may not be complete. We recommend the second approach, which is to use python directly to do the plotting. You can follow these command to draw this pairplot image.
 
 ```{shell}
