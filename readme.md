@@ -1,6 +1,6 @@
 This code is an assignment for the GPH-GU 2338 Machine Learning in Public course. For more information about the dataset and background, please refer to our project report. 
 
-Dataset Source: https://www.kaggle.com/bariscal/12-ml-models-visualization-92-accuracy/data?select=heart.csv
+Dataset Source: https://www.kaggle.com/ronitf/heart-disease-uci
 
 ## enviroment
 Please have your rstudio prepared and have the following environment dependency packages ready:
